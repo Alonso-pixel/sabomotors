@@ -27,7 +27,7 @@ const Footer = () => (
             LinkedIn
           </span>
           <img
-            src="/linkedin.svg"
+            src="https://svgshare.com/i/14rW.svg"
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />

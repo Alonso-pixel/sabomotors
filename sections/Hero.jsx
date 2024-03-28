@@ -29,14 +29,14 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
         <img
-          src="/cover2.png"
+          src="https://scontent.fmex34-1.fna.fbcdn.net/v/t39.30808-6/433259478_826291739516528_5163778293280432416_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHimDOtYWAzcgkxhz9g4AipT7oH1iH69xNPugfWIfr3E7J5Th24nCoveY6SQZTWUWJWTXZbQlUxVWAi6JH79Pxw&_nc_ohc=q7VkgvyeEjwAX9kIM7K&_nc_ht=scontent.fmex34-1.fna&oh=00_AfAA-m7cl624p1hhXSDpaIszN-WGgAJICVOm_jXjnjRU9w&oe=660A2F0C"
           alt="cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />
         <a href="#explore">
           <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10">
             <img
-              src="/stamp2.png"
+              src="https://i.ibb.co/zmLLFFY/stamp2.png"
               alt="stamp"
               className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
             />

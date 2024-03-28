@@ -34,7 +34,7 @@ const ExploreCard = ({
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
           <img
-            src="/sabomotors.svg"
+            src="https://svgsilh.com/svg/2386838.svg"
             alt="headset"
             className="w-1/2 h-1/2 object-contain"
           />

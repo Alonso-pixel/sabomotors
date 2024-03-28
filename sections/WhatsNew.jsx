@@ -34,7 +34,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/catalogo.png"
+          src="https://cdn.dribbble.com/userupload/3146499/file/original-c3a121c93f63c27cf9788e05210c71ce.png"
           alt="autos"
           className="w-[90%] h-[90%] object-contain rounded-lg"
         />

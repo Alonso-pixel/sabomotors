@@ -15,7 +15,7 @@ const GetStarted = () => (
       <motion.div variants={planetVariants('left')}
       className={`flex-1 ${styles.flexCenter}`}
       >
-        <img src="/getstarted2.png" alt="get started" className='w-[90%] h-[90%] object-contain' />
+        <img src="https://i.ibb.co/hX5zrT8/getstarted2.png" alt="get started" className='w-[90%] h-[90%] object-contain' />
       </motion.div>
       <motion.div
       variants={fadeIn('left','tween',0.2,1)}

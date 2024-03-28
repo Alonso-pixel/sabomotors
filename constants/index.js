@@ -1,7 +1,7 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/branddev.webp',
+    imgUrl: 'https://cdn4.iconfinder.com/data/icons/seo-dual-color-glyph-set-1/128/brand_development-512.png',
     title: 'Mejora de marca',
   },
   // {
@@ -11,12 +11,12 @@ export const exploreWorlds = [
   // },
   {
     id: 'world-3',
-    imgUrl: '/webdev3.svg',
+    imgUrl: 'https://www.svgrepo.com/show/261945/web-development.svg',
     title: 'Construcción página web',
   },
   {
     id: 'world-4',
-    imgUrl: '/googlelogo.svg',
+    imgUrl: 'https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg',
     title: 'Mejora de posicionamiento en Google',
   },
   // {
@@ -34,13 +34,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/lupa.svg',
+    imgUrl: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Magnifying_glass_icon.svg',
     title: 'Filtros de búsqueda avanzados',
     subtitle:
         'Como modelo, marca, año, kilometraje, precio para que los usuarios puedan encontrar el vehículo que buscan de manera rápida y sencilla',
   },
   {
-    imgUrl: '/diseño.svg',
+    imgUrl: 'https://www.svgrepo.com/show/78385/paint-palette-and-brush.svg',
     title: 'Diseño atractivo y funcional',
     subtitle:
         'Se crearán secciones para mostrar los vehículos en venta, información de la empresa, formulario de contacto y ubicación',
@@ -50,7 +50,7 @@ export const newFeatures = [
 export const insights = [
   {
     // imgUrl: '/mundointerconectado.png',
-    imgUrl: '/12297.jpg',
+    imgUrl: 'https://img.freepik.com/free-vector/abstract-global-communications-background_1048-12297.jpg',
     title: 'En un mundo interconectado la presencia digital es lo más importante', 
     subtitle:
         'No solo por la capcaidad de llegar a más personas, sino por el prestigio y la confianza que genera en los clientes',
@@ -58,20 +58,20 @@ export const insights = [
 ];
 
 export const socials = [
-  {
-    name: 'twitter',
-    url: '/twitter.svg',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
-  },
+  // {
+  //   name: 'twitter',
+  //   url: '/twitter.svg',
+  // },
+  // {
+  //   name: 'linkedin',
+  //   url: '/linkedin.svg',
+  // },
+  // {
+  //   name: 'instagram',
+  //   url: '/instagram.svg',
+  // },
+  // {
+  //   name: 'facebook',
+  //   url: '/facebook.svg',
+  // },
 ];
