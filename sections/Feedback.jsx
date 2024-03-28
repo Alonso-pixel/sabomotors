@@ -26,9 +26,9 @@ const Feedback = () => (
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[12px] sm:leading-[45px] leading-[39px] text-white">
-          “With the development of today's technology, metaverse is very useful
-          for today's work, or can be called web 3.0. by using metaverse you can
-          use it as anything”
+          En un mundo cada vez mas interconectado, es importante contar con
+          socios que entiendan la importancia de la presencia digital y el
+          posi
         </p>
       </motion.div>
       <motion.div
@@ -55,4 +55,4 @@ const Feedback = () => (
   </section>
 );
 
-export default Feedback;
+// export default Feedback;

@@ -1,70 +1,59 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/branddev.webp',
+    title: 'Mejora de marca',
   },
-  {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
-  },
+  // {
+  //   id: 'world-2',
+  //   imgUrl: '/planet-02.png',
+  //   title: 'The Upside Down',
+  // },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/webdev3.svg',
+    title: 'Construcción página web',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/googlelogo.svg',
+    title: 'Mejora de posicionamiento en Google',
   },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
-  },
+  // {
+  //   id: 'world-5',
+  //   imgUrl: '/planet-05.png',
+  //   title: 'Hawkins Labs',
+  // },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Se creara un correo con el dominio @sabomotors para dar una imagen profesional',
+  'Se creara un dominio para la empresa: www.sabomotors.com donde se hospedara la página web',
+  'Se creara una página web con la información de la empresa y los vehículos en venta',
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: '/lupa.svg',
+    title: 'Filtros de búsqueda avanzados',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Como modelo, marca, año, kilometraje, precio para que los usuarios puedan encontrar el vehículo que buscan de manera rápida y sencilla',
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: '/diseño.svg',
+    title: 'Diseño atractivo y funcional',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Se crearán secciones para mostrar los vehículos en venta, información de la empresa, formulario de contacto y ubicación',
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    // imgUrl: '/mundointerconectado.png',
+    imgUrl: '/12297.jpg',
+    title: 'En un mundo interconectado la presencia digital es lo más importante', 
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
-  },
-  {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
-    subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
-  },
-  {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'No solo por la capcaidad de llegar a más personas, sino por el prestigio y la confianza que genera en los clientes',
   },
 ];
 

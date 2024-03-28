@@ -17,7 +17,7 @@ const Navbar = () => (
         className="w-[24px] h-[24px] object-contain"
       />
       <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">
-        Metaversus
+        Sabo Motors
       </h2>
       <img
         src="/menu.svg"
