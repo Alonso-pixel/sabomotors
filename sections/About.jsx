@@ -18,11 +18,13 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
+        <div className="text-center">
         <span className="font-extrabold text-white">Sabo Motors </span>
 es una empresa que se dedica a la venta de vehículos seminuevos,
-      otorgamos crédito en seminuevos auditados, seriedad y confianza a un precio competitivo. Comprometidos con la mejora continua y la protección de tu patrimonio.Nos hemos consolidado como una
+      otorgamos crédito en seminuevos auditados, seriedad y confianza a un precio competitivo. Comprometidos con la mejora continua y la protección de tu patrimonio. Nos hemos consolidado como una
       de las mejores opciones para adquirir un vehículo en Ixtapaluca. Nuestro principal objetivo es ofrecer a nuestros clientes
       vehículos de calidad a precios accesibles.
+      </div>
         <br />
         <span className="font-extrabold text-white"> Propuesta de proyecto</span>
       </motion.p>
